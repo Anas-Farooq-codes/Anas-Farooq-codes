@@ -1,3 +1,6 @@
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💫 About Me:
 I am a Web Developer, currently a front-end developer with aspirations to become a full-fledged MERN Stack Developer.<br><br>I am currently working on Front-end projects that bring creativity and functionality together.<br><br>Looking to collaborate on MERN stack projects, innovative web apps, and open-source contributions.<br><br>Currently learning the MERN stack (MongoDB, Express, React, Node.js) to enhance my full-stack development skills.<br><br>In my free time, I enjoy gaming and listening to music
 
@@ -12,8 +15,6 @@ I am a Web Developer, currently a front-end developer with aspirations to become
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anas-Farooq-codes&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Farooq-codes&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anas-Farooq-codes&icon=0&color=0)](https://visitcount.itsvg.in)
