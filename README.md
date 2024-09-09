@@ -1,5 +1,7 @@
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
 # 💫 About Me:
 I am a Web Developer, currently a front-end developer with aspirations to become a full-fledged MERN Stack Developer.<br><br>I am currently working on Front-end projects that bring creativity and functionality together.<br><br>Looking to collaborate on MERN stack projects, innovative web apps, and open-source contributions.<br><br>Currently learning the MERN stack (MongoDB, Express, React, Node.js) to enhance my full-stack development skills.<br><br>In my free time, I enjoy gaming and listening to music
