@@ -13,16 +13,24 @@ I am a Web Developer, currently a front-end developer with aspirations to become
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anas-Farooq-codes&theme=codeSTACKr&hide_border=false)<br/>
 <div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Farooq-codes&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Farooq-codes&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+<br/>
+
 </div>
 
 ## 🌐 Socials:
 <div align="center">
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FGunPKZUp3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anas-farooq06/) 
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FGunPKZUp3) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-farooq06/) 
+
 </div>
 
 ## 👀 Profile Views
 <div align="right">
+
 [![](https://visitcount.itsvg.in/api?id=Anas-Farooq-codes&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
 
